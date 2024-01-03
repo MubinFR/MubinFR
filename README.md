@@ -38,7 +38,7 @@
     <img src="https://img.shields.io/badge/instagram-logo?style=social&logo=instagram" alt="Instagram" height="30" width="110" />
   </a>&nbsp;
   <a href="https://stackoverflow.com/users/23186910" target="blank">
-    <img src="https://img.shields.io/badge/stack-overflow-logo?style=social&logo=stack-overflow" alt="Stack Overflow" height="30" width="150" />
+    <img src="https://img.shields.io/badge/stackoverflow-logo?style=social&logo=stack-overflow" alt="Stack Overflow" height="30" width="150" />
   </a>&nbsp;
   <a href="https://discord.com/users/551421803629641729" target="blank">
     <img src="https://img.shields.io/badge/discord-logo?style=social&logo=discord" alt="Discord" height="30" width="90" />
