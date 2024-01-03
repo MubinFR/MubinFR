@@ -6,7 +6,7 @@
 <h2 align="center">Aspiring Developer from Bangladesh | Learning & Building 💻</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mubinfr&label=Profile%20views&color=aaff00&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=mubinfr&label=PROFILE%20VIEWS&color=brightgreen&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -29,20 +29,19 @@
 
 <p align="center">
   <a href="https://www.youtube.com/c/mubinfazlerabbi" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="40" width="50" />
-  </a>
+    <img src="https://img.shields.io/badge/youtube-logo?style=social&logo=youtube" alt="YouTube" height="30" width="90" />
+  </a>&nbsp;
   <a href="https://fb.com/mubinfazlerabbi" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="50" />
-  </a>
+    <img src="https://img.shields.io/badge/facebook-logo?style=social&logo=facebook" alt="Facebook" height="30" width="100" />
+  </a>&nbsp;
   <a href="https://instagram.com/mubin_fazle_rabbi" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="50" />
-  </a>
+    <img src="https://img.shields.io/badge/instagram-logo?style=social&logo=instagram" alt="Instagram" height="30" width="110" />
+  </a>&nbsp;
   <a href="https://stackoverflow.com/users/23186910" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="40" width="50" />
-  </a>
+    <img src="https://img.shields.io/badge/stack-overflow-logo?style=social&logo=stack-overflow" alt="Stack Overflow" height="30" width="150" />
+  </a>&nbsp;
   <a href="https://discord.com/users/551421803629641729" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
-    alt="Discord" height="40" width="50" />
+    <img src="https://img.shields.io/badge/discord-logo?style=social&logo=discord" alt="Discord" height="30" width="90" />
   </a>
 </p>
 
