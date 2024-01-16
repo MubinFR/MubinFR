@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="200" height="100" src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" />
+  <img width="200" height="120" src="https://i.imgflip.com/837mqz.jpg" />
 </p>
 
 <h1 align="center">Hi 🐸, I'm Mubin Fazle Rabbi</h1>
