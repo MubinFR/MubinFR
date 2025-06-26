@@ -140,10 +140,11 @@
 </p>
 
 <p align="center">
-  <img alt="Network Speed" width="200" src="https://www.speedtest.net/result/15698497370.png">
-  <img alt="Network Speed" width="200" src="https://www.speedtest.net/result/15698505200.png">
+  <img alt="Network Speed" width="200" src="https://www.speedtest.net/result/17901439593.png">
+  <img alt="Network Speed" width="200" src="https://www.speedtest.net/result/17901446298.png">
 </p>
 
 <p align="center">
-  <img align="center" alt="Network Speed" width="400" src="https://pic.nperf.com/r/3490081604683423-02JCDO85.png">
+  <img align="center" alt="Network Speed" width="400" src="https://pic.nperf.com/r/3585952653617065-S59VmPQv.png">
+  <img align="center" alt="Network Speed" width="400" src="https://pic.nperf.com/r/3585953127927026-IqmllHR4.png">
 </p>
