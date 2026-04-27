@@ -9,12 +9,6 @@
   <img src="https://komarev.com/ghpvc/?username=mubinfr&label=PROFILE%20%20%20%20%20VIEWS&color=brightgreen&style=flat" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mubinfr" alt="GitHub Trophies" />
-  </a>
-</p>
-
 <h3 align="center">About Me</h3>
 
 - 🔭 I'm currently working on **programming languages, web development, networking, and communication**
